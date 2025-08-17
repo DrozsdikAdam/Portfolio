@@ -5,7 +5,7 @@
   "type": "module",
   "homepage": "https://DrozsdikAdam.github.io/portfolio",
   "scripts": {
-    "deploy": "gh-pages -d build",
+    "deploy": "gh-pages -d dist",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
